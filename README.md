@@ -30,3 +30,7 @@ Exercises to 7th and 8th lesson for subject: "Programowania aplikacji klient-ser
 
   ../bin/zad2/serwerPliki.o 1234
   ../bin/zad2/klientPliki.o 127.0.0.1 1234 root.srl
+
+## License
+
+[The MIT License](http://piecioshka.mit-license.org) @ 2026
