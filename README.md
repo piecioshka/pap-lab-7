@@ -33,4 +33,4 @@ Exercises to 7th and 8th lesson for subject: "Programowania aplikacji klient-ser
 
 ## License
 
-[The MIT License](http://piecioshka.mit-license.org) @ 2026
+[The MIT License](https://piecioshka.mit-license.org) @ 2026
